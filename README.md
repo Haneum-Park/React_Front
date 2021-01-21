@@ -1,6 +1,8 @@
 # 리액트 템플릿
 React `-v 17.0.1`
+
 Node `-v 14.15.4`
+
 Yarn `-v 1.22.10`
 
 
@@ -11,6 +13,7 @@ Yarn `-v 1.22.10`
 
 ### HTML,JS,CSS Framework
 bootstrap `-v 4.6.0`
+
 react-bootstrap
 
 
