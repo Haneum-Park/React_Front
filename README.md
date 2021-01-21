@@ -35,8 +35,9 @@
 - webpack-cli: ^4.4.0
 - webpack-dev-server: ^3.11.2
   - 웹팩으로 빠른 실행
+
 `각 의존성 라이브러리는 버전이 중요합니다. 버전을 맞춰야 컴파일에러가 나지 않습니다.`
 
 
 ### Start
-- `yarn dev`
+`yarn dev`
