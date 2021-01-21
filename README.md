@@ -1,13 +1,18 @@
 # 리액트 템플릿
-- React `-v 17.0.1`
-- Node `-v 14.15.4`
-- Yarn `-v 1.22.10`
+React `-v 17.0.1`
+Node `-v 14.15.4`
+Yarn `-v 1.22.10`
 
-`웹팩과 바벨 Eslint를 사용한 리액트 템플릿`
+
+
+```웹팩과 바벨 Eslint를 사용한 리액트 템플릿```
+
+
 
 ### HTML,JS,CSS Framework
-- bootstrap `-v 4.6.0`
-- react-bootstrap
+bootstrap `-v 4.6.0`
+react-bootstrap
+
 
 
 ### 적용된 의존성 라이브러리
@@ -36,7 +41,9 @@
 - webpack-dev-server: ^3.11.2
   - 웹팩으로 빠른 실행
 
-`각 의존성 라이브러리는 버전이 중요합니다. 버전을 맞춰야 컴파일에러가 나지 않습니다.`
+
+```각 의존성 라이브러리는 버전이 중요합니다. 버전을 맞춰야 컴파일에러가 나지 않습니다.```
+
 
 
 ### Start
